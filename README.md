@@ -44,3 +44,5 @@
 <br>
 
 ![Mykhailo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ostkreuzzz&show_icons=true&theme=nightowl)
+
+[![codewars](https://www.codewars.com/users/Ostkreuz/badges/large)](https://www.codewars.com/users/Ostkreuz)
