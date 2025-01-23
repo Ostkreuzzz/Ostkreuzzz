@@ -44,5 +44,6 @@
 <br>
 
 ![Mykhailo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ostkreuzzz&show_icons=true&theme=nightowl)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ostkreuzzz&langs_count=8&layout=compact&theme=tokyonight&hide_border=false&bg_color=000000&title_color=4169E1&icon_color=800080&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 [![codewars](https://www.codewars.com/users/Ostkreuz/badges/large)](https://www.codewars.com/users/Ostkreuz)
