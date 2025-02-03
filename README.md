@@ -3,11 +3,7 @@
 <h1>Hello, I'm Mykhailo Sulima</h1>
 <h3>Full stack developer with 1 year of practice, who is in love with creating high-performance and unique websites and web apps. I also have a bachelor's degree in Computer Science.
   <br>
-  <br>
-  My ENG level is upper-intermediate
 </h3>
-<br>
----
 <h1>Skills and Tools</h1>
 <h2>Front end</h2>
 <div>
