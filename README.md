@@ -11,6 +11,7 @@ Hello, my name is Mykhailo!<br>Frontend developer with 1 year of experience, who
 ![](https://github-readme-stats.vercel.app/api?username=Ostkreuzzz&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ostkreuzzz&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ostkreuzzz&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![codewars](https://www.codewars.com/users/Ostkreuz/badges/large)](https://www.codewars.com/users/Ostkreuz)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ostkreuzzz&theme=radical&no-frame=true&no-bg=true&margin-w=4)
