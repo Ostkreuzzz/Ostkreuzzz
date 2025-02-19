@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Mykhailo!<br>Frontend developer, who is in love with creating high-performance and unique websites and web apps. 
+Hello, my name is Mykhailo!<br>Frontend developer, who is in love with creating high-performance and unique websites. 
 
 
 ## 🌐 Socials:
